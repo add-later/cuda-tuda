@@ -12,3 +12,8 @@ Kernel: `matAdd.cu`
 - continued to getting familiar with grid, block and thread in CUDA
 - solved https://leetgpu.com/challenges/matrix-addition with 1D block launching 
 - read ch2 PMPP book
+
+# Day 3
+Kernel: `dotProduct.cu`
+- solved https://www.deep-ml.com/projects/flash-attention-in-cuda-from-scratch/step/flash-attention-in-cuda-from-scratch-0006 with single thread
+- read half of ch3 PMPP book
