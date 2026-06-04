@@ -17,3 +17,7 @@ Kernel: `matAdd.cu`
 Kernel: `dotProduct.cu`
 - solved https://www.deep-ml.com/projects/flash-attention-in-cuda-from-scratch/step/flash-attention-in-cuda-from-scratch-0006 with single thread
 - read half of ch3 PMPP book
+
+# Day 4
+Kernel: `partSum.cu`
+- solved https://leetgpu.com/challenges/reduction
