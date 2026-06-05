@@ -21,3 +21,7 @@ Kernel: `dotProduct.cu`
 # Day 4
 Kernel: `partSum.cu`
 - solved https://leetgpu.com/challenges/reduction
+
+# Day5
+Kernel `layerNorm.cu`
+- wrote a layer normalization kernel 
