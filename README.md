@@ -22,6 +22,10 @@ Kernel: `dotProduct.cu`
 Kernel: `partSum.cu`
 - solved https://leetgpu.com/challenges/reduction
 
-# Day5
+# Day 5
 Kernel `layerNorm.cu`
 - wrote a layer normalization kernel 
+
+# Day 6
+Kernel `matrixTranspose.cu`
+- solved https://leetgpu.com/challenges/matrix-transpose
