@@ -24,7 +24,7 @@ Kernel: `partSum.cu`
 
 # Day 5
 Kernel `layerNorm.cu`
-- wrote a layer normalization kernel 
+- wrote a layer normalization kernel
 
 # Day 6
 Kernel `matrixTranspose.cu`
@@ -34,4 +34,4 @@ Kernel `matrixTranspose.cu`
 # Day 7
 Kernel `matMul.cu`
 - solved https://leetgpu.com/challenges/matrix-multiplication
-- read 
+- read PMPP book ch 3
