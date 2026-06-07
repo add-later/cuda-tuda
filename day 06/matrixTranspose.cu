@@ -1,9 +1,6 @@
 #include <iostream>
 #include <cuda_runtime.h>
 
-#include <iostream>
-#include <cuda_runtime.h>
-
 __global__ void matrix_transpose_kernel(const float* input, float* output, int rows, int cols) {
     int row = threadIdx.y + blockDim.y * blockIdx.y;
     int col = threadIdx.x + blockDim.x * blockIdx.x;

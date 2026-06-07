@@ -29,3 +29,9 @@ Kernel `layerNorm.cu`
 # Day 6
 Kernel `matrixTranspose.cu`
 - solved https://leetgpu.com/challenges/matrix-transpose
+- read ch1-2 Deep Learning for CUDA
+
+# Day 7
+Kernel `matMul.cu`
+- solved https://leetgpu.com/challenges/matrix-multiplication
+- read 
