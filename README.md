@@ -34,4 +34,4 @@ Kernel `matrixTranspose.cu`
 # Day 7
 Kernel `matMul.cu`
 - solved https://leetgpu.com/challenges/matrix-multiplication
-- read PMPP book ch 3
+- read PMPP book ch 4
