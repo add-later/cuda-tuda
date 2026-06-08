@@ -35,3 +35,8 @@ Kernel `matrixTranspose.cu`
 Kernel `matMul.cu`
 - solved https://leetgpu.com/challenges/matrix-multiplication
 - read PMPP book ch 4
+
+# Day 8
+Kernel `conv1D.cu`
+- solved https://leetgpu.com/challenges/1d-convolution
+- read PMPP book ch 7 (just the start)
