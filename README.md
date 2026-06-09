@@ -40,3 +40,7 @@ Kernel `matMul.cu`
 Kernel `conv1D.cu`
 - solved https://leetgpu.com/challenges/1d-convolution
 - read PMPP book ch 7 (just the start)
+
+# Day 9
+Kernel `conv2D.cu`
+- solved https://leetgpu.com/challenges/2d-convolution
