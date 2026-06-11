@@ -46,5 +46,9 @@ Kernel `conv2D.cu`
 - solved https://leetgpu.com/challenges/2d-convolution
 
 # Day 10
-Kernel `causalConv1D`
+Kernel `causalConv1D.cu`
 - solved https://leetgpu.com/challenges/causal-depthwise-conv1d
+
+# Day 11
+Kernel `softmax.cu`
+- solved https://leetgpu.com/challenges/softmax
