@@ -52,3 +52,7 @@ Kernel `causalConv1D.cu`
 # Day 11
 Kernel `softmax.cu`
 - solved https://leetgpu.com/challenges/softmax
+
+# Day 12 
+Kernel `swiglu.cu`
+- solved https://leetgpu.com/challenges/swish-gated-linear-unit (I'm getting closer and closer for understanding what is going on! XD)
