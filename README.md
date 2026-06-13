@@ -56,3 +56,7 @@ Kernel `softmax.cu`
 # Day 12 
 Kernel `swiglu.cu`
 - solved https://leetgpu.com/challenges/swish-gated-linear-unit (I'm getting closer and closer for understanding what is going on! XD)
+
+# Day 13
+Kernel `prefixSum.cu`
+- solved https://leetgpu.com/challenges/prefix-sum
