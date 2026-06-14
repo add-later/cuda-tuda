@@ -60,3 +60,7 @@ Kernel `swiglu.cu`
 # Day 13
 Kernel `prefixSum.cu`
 - solved https://leetgpu.com/challenges/prefix-sum
+
+# Day 14
+Kernel `histogramKernel.cu`
+- solved https://leetgpu.com/challenges/histogramming
