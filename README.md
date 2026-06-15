@@ -64,3 +64,7 @@ Kernel `prefixSum.cu`
 # Day 14
 Kernel `histogramKernel.cu`
 - solved https://leetgpu.com/challenges/histogramming
+
+# Day 15
+Kernel `siLU.cu`
+- solved https://leetgpu.com/challenges/sigmoid-linear-unit
