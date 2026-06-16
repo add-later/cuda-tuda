@@ -68,3 +68,8 @@ Kernel `histogramKernel.cu`
 # Day 15
 Kernel `siLU.cu`
 - solved https://leetgpu.com/challenges/sigmoid-linear-unit
+
+# Day 16
+Kernel `tiledMatmul.cu`
+- wrote tiled matrix multiplication kernel
+- started PMPP ch5 
