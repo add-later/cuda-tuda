@@ -73,3 +73,7 @@ Kernel `siLU.cu`
 Kernel `tiledMatmul.cu`
 - wrote tiled matrix multiplication kernel
 - started PMPP ch5 
+
+# Day 17
+Kernel `tiledTranspose.cu`
+- wrote tiled matrix transposition kernel
