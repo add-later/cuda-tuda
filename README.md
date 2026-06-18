@@ -77,3 +77,8 @@ Kernel `tiledMatmul.cu`
 # Day 17
 Kernel `tiledTranspose.cu`
 - wrote tiled matrix transposition kernel
+
+# Day 18
+Kernel `matrixCopy.cu`
+- solved https://leetgpu.com/challenges/matrix-copy
+- started watching lecture Compute and Memory Basics by GPU MODE
