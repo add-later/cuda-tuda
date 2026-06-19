@@ -82,3 +82,7 @@ Kernel `tiledTranspose.cu`
 Kernel `matrixCopy.cu`
 - solved https://leetgpu.com/challenges/matrix-copy
 - started watching lecture Compute and Memory Basics by GPU MODE
+
+# Day 19 
+Kernel `relu.cu`
+- solved https://leetgpu.com/challenges/relu
