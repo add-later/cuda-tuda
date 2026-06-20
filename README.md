@@ -86,3 +86,7 @@ Kernel `matrixCopy.cu`
 # Day 19 
 Kernel `relu.cu`
 - solved https://leetgpu.com/challenges/relu
+
+# Day 20 
+Kernel `cublasSgemm.cu`
+- wrote matmul using cuBLAS and cuRAND
