@@ -90,3 +90,7 @@ Kernel `relu.cu`
 # Day 20 
 Kernel `cublasSgemm.cu`
 - wrote matmul using cuBLAS and cuRAND
+
+# Day 21
+Kernel `rope.cu`
+- solved https://leetgpu.com/challenges/rotary-positional-embedding
