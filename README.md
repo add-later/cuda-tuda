@@ -94,3 +94,7 @@ Kernel `cublasSgemm.cu`
 # Day 21
 Kernel `rope.cu`
 - solved https://leetgpu.com/challenges/rotary-positional-embedding
+
+# Day 22
+Kernel `rmsNorm.cu`
+- https://leetgpu.com/challenges/rms-normalization
