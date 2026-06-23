@@ -97,4 +97,8 @@ Kernel `rope.cu`
 
 # Day 22
 Kernel `rmsNorm.cu`
-- https://leetgpu.com/challenges/rms-normalization
+- solved https://leetgpu.com/challenges/rms-normalization
+
+# Day 23
+Kernel `rainbowTable.cu`
+- solved https://leetgpu.com/challenges/rainbow-table
