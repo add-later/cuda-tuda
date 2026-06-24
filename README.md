@@ -102,3 +102,7 @@ Kernel `rmsNorm.cu`
 # Day 23
 Kernel `rainbowTable.cu`
 - solved https://leetgpu.com/challenges/rainbow-table
+
+# Day 24
+Kernel  `tiledMatmul_v2.cu`
+- did a register tiling matmul kernel, but accepting only NxN matrices
