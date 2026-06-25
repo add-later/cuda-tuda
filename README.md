@@ -106,3 +106,7 @@ Kernel `rainbowTable.cu`
 # Day 24
 Kernel  `tiledMatmul_v2.cu`
 - did a register tiling matmul kernel, but accepting only NxN matrices
+
+# Day 25
+Kernel `reluMatmulFused.cu`
+- wrote a fused kernel, computing tiled matmul, adding bias and then relu
