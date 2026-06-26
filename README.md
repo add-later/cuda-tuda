@@ -110,3 +110,7 @@ Kernel  `tiledMatmul_v2.cu`
 # Day 25
 Kernel `reluMatmulFused.cu`
 - wrote a fused kernel, computing tiled matmul, adding bias and then relu
+
+# Day 26 
+Kernel `tiledMatmulGelu.cu`
+- wrote fused matmul gelu kernel 
