@@ -114,3 +114,7 @@ Kernel `reluMatmulFused.cu`
 # Day 26 
 Kernel `tiledMatmulGelu.cu`
 - wrote fused matmul gelu kernel 
+
+# Day 27
+Kernel `clipKernel.cu`
+- wrote value clipping kernel
