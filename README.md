@@ -118,3 +118,7 @@ Kernel `tiledMatmulGelu.cu`
 # Day 27
 Kernel `clipKernel.cu`
 - wrote value clipping kernel
+
+# Day 28
+Kernel `spmv.cu`
+- wrote sparse matrix to dense vector multiplication kernel using hybrid ELL + COO
