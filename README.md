@@ -122,3 +122,7 @@ Kernel `clipKernel.cu`
 # Day 28
 Kernel `spmv.cu`
 - wrote sparse matrix to dense vector multiplication kernel using hybrid ELL + COO
+
+# Day 29
+Kernel `streams.cu`
+- wrote a kernel to persform simple transformation using CUDA streams 
