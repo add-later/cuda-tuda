@@ -125,4 +125,8 @@ Kernel `spmv.cu`
 
 # Day 29
 Kernel `streams.cu`
-- wrote a kernel to persform simple transformation using CUDA streams 
+- wrote a kernel to persform simple transformation using CUDA streams
+
+# Day 30 
+Kernel `graph.cu`
+- wrote a kernel scale -> add -> sqrt and launched using CUDA graph
