@@ -130,3 +130,7 @@ Kernel `streams.cu`
 # Day 30 
 Kernel `graph.cu`
 - wrote a kernel scale -> add -> sqrt and launched using CUDA graph
+
+# Day 31 
+Kernel `reduceKernel.py`
+- wrote a reduction kernel (https://leetgpu.com/challenges/reduction) and called it from python 
