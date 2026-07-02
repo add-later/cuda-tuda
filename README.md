@@ -134,3 +134,7 @@ Kernel `graph.cu`
 # Day 31 
 Kernel `reduceKernel.py`
 - wrote a reduction kernel (https://leetgpu.com/challenges/reduction) and called it from python 
+
+# Day 32 
+Kernel `sigmoid.py`
+- wrote a sigmoid activation kernel https://leetgpu.com/challenges/sigmoid-activation and profiled it with pycuda 
