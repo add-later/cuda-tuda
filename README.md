@@ -138,3 +138,7 @@ Kernel `reduceKernel.py`
 # Day 32 
 Kernel `sigmoid.py`
 - wrote a sigmoid activation kernel https://leetgpu.com/challenges/sigmoid-activation and profiled it with pycuda 
+
+# Day 33
+Kernel `interleave.cu`
+- solved https://leetgpu.com/challenges/interleave-arrays
