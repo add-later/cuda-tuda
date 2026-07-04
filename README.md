@@ -142,3 +142,7 @@ Kernel `sigmoid.py`
 # Day 33
 Kernel `interleave.cu`
 - solved https://leetgpu.com/challenges/interleave-arrays
+
+# Day 34
+Kernel `geglu.cu`
+- solved https://leetgpu.com/challenges/gaussian-error-gated-linear-unit
