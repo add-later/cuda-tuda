@@ -146,3 +146,7 @@ Kernel `interleave.cu`
 # Day 34
 Kernel `geglu.cu`
 - solved https://leetgpu.com/challenges/gaussian-error-gated-linear-unit
+
+# Day 35
+Kernel `reverse.cu`
+- solved https://leetgpu.com/challenges/reverse-array
