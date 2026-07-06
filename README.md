@@ -150,3 +150,7 @@ Kernel `geglu.cu`
 # Day 35
 Kernel `reverse.cu`
 - solved https://leetgpu.com/challenges/reverse-array
+
+# Day 36
+Kernel `wmma.cu`
+- wrote fp16 matmul with WMMA API
