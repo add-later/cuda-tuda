@@ -154,3 +154,7 @@ Kernel `reverse.cu`
 # Day 36
 Kernel `wmma.cu`
 - wrote fp16 matmul with WMMA API
+
+# Day 37
+Kernel `rgb.cu`
+- solved https://leetgpu.com/challenges/rgb-to-grayscale
