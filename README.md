@@ -158,3 +158,7 @@ Kernel `wmma.cu`
 # Day 37
 Kernel `rgb.cu`
 - solved https://leetgpu.com/challenges/rgb-to-grayscale
+
+# Day 38
+Kernel `bmm.cu`
+- wrote batched matmul kernel with WMMA API
