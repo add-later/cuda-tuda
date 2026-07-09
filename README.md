@@ -162,3 +162,7 @@ Kernel `rgb.cu`
 # Day 38
 Kernel `bmm.cu`
 - wrote batched matmul kernel with WMMA API
+
+# Day 39 
+Kernel `softmaxAttention.cu`
+- solved https://leetgpu.com/challenges/softmax-attention
