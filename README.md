@@ -166,3 +166,7 @@ Kernel `bmm.cu`
 # Day 39 
 Kernel `softmaxAttention.cu`
 - solved https://leetgpu.com/challenges/softmax-attention
+
+# Day 40 
+Kernel `softmax.cu`
+- upgraded my softmax kernel by making it O(N)
