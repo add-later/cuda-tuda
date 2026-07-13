@@ -170,3 +170,14 @@ Kernel `softmaxAttention.cu`
 # Day 40 
 Kernel `softmax.cu`
 - upgraded my softmax kernel by making it O(N)
+
+# Day 41
+Kernel `tiledSoftmaxAttention.cu`
+- added softmax to tiling computation
+
+# Day 42
+Kernel: `flashAttentionV1.ipynb`
+- wrote flash attention v2 and called using torch
+
+# Day 42
+Kernel: `flashAttentionV2.ipynb`
