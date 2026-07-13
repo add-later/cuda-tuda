@@ -179,5 +179,6 @@ Kernel `tiledSoftmaxAttention.cu`
 Kernel: `flashAttentionV1.ipynb`
 - wrote flash attention v2 and called using torch
 
-# Day 42
+# Day 43
 Kernel: `flashAttentionV2.ipynb`
+- added causal masking and improved yesterday's code 
