@@ -182,3 +182,7 @@ Kernel: `flashAttentionV1.ipynb`
 # Day 43
 Kernel: `flashAttentionV2.ipynb`
 - added causal masking and improved yesterday's code 
+
+# Day 44
+kernel: `geluStream.ipynb`
+- wrote stream gelu kernel and compared it with pytorch
