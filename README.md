@@ -186,3 +186,7 @@ Kernel: `flashAttentionV2.ipynb`
 # Day 44
 kernel: `geluStream.ipynb`
 - wrote stream gelu kernel and compared it with pytorch
+
+# Day 45
+Kernel: `gemv.ipynb`
+- wrote gemv with coalesced memory access
