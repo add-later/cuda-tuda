@@ -190,3 +190,7 @@ kernel: `geluStream.ipynb`
 # Day 45
 Kernel: `gemv.ipynb`
 - wrote gemv with coalesced memory access
+
+# Day 46
+Kernel `gemv.ipynb`
+- improved previous gemv kerel by adding block-level reduction 
