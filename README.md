@@ -194,3 +194,7 @@ Kernel: `gemv.ipynb`
 # Day 46
 Kernel `gemv.ipynb`
 - improved previous gemv kerel by adding block-level reduction 
+
+# Day 47
+Kernel `gemv.ipynb`
+- did vectorization on gemv kernel 
