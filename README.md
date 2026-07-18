@@ -198,3 +198,7 @@ Kernel `gemv.ipynb`
 # Day 47
 Kernel `gemv.ipynb`
 - did vectorization on gemv kernel 
+
+# Day 48
+Kernel `topK.cu`
+- solved moe top-k gating https://leetgpu.com/challenges/moe-top-k-gating
