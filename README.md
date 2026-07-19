@@ -202,3 +202,7 @@ Kernel `gemv.ipynb`
 # Day 48
 Kernel `topK.cu`
 - solved moe top-k gating https://leetgpu.com/challenges/moe-top-k-gating
+
+# Day 49
+Kernel `heapTopK.cu`
+- improved naive topK kernel by adding heap
