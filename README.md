@@ -206,3 +206,7 @@ Kernel `topK.cu`
 # Day 49
 Kernel `heapTopK.cu`
 - improved naive topK kernel by adding heap
+
+# Day 50
+Kernel `mse.cu`
+- solved https://leetgpu.com/challenges/mean-squared-error
