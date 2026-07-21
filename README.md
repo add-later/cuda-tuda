@@ -210,3 +210,7 @@ Kernel `heapTopK.cu`
 # Day 50
 Kernel `mse.cu`
 - solved https://leetgpu.com/challenges/mean-squared-error
+
+# Day 51
+Kernel `dotPoduct.cu`
+- improved dot product kernel using reduction 
