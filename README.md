@@ -214,3 +214,13 @@ Kernel `mse.cu`
 # Day 51
 Kernel `dotPoduct.cu`
 - improved dot product kernel using reduction 
+
+# Day 52
+Kernel `fa2_fwd.cu`
+- implemented FlashAttention2 forward pass as in paper
+- started using cuda check 
+- compared with CPU reference on T4 (I think not the best idea). 
+```
+Max abs error vs CPU reference:6.556511e-07
+```
+
