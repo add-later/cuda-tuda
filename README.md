@@ -224,3 +224,7 @@ Kernel `fa2_fwd.cu`
 Max abs error vs CPU reference:6.556511e-07
 ```
 
+# Day 53
+Kernel `gemm.cu`
+- solved https://leetgpu.com/challenges/general-matrix-multiplication-gemm
+
